@@ -1,5 +1,5 @@
 ---
-layout: markdown-cv
+layout: cv
 title: Luis Augusto Eijy Nagai's Curriculum vitae
 ---
 # Luis Augusto Eijy Nagai
