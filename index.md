@@ -1,6 +1,6 @@
 ---
-layout: cv
-title: Eijy's CV
+layout: markdown-cv
+title: Luis Augusto Eijy Nagai's Curriculum vitae
 ---
 # Luis Augusto Eijy Nagai
 Biotechnologist, bioinformatician, data scientist.
