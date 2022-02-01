@@ -12,20 +12,21 @@ Biotechnologist, bioinformatician, data scientist.
 </div>
 
 
-## Currently
+## Current position
 
-I am a bioinformatics scientist hired as Project Researcher (特任研究員）at the [Laboratory of Computational Genomics](http://nakatolab.iqb.u-tokyo.ac.jp/index-e.html) located in the [Institute for Quantitative Biosciences](http://www.iam.u-tokyo.ac.jp/en/) of the [University of Tokyo](https://www.u-tokyo.ac.jp/en/).
+###__Project Researcher (特任研究員）__
+_ [Laboratory of Computational Genomics](http://nakatolab.iqb.u-tokyo.ac.jp/index-e.html),[Institute for Quantitative Biosciences](http://www.iam.u-tokyo.ac.jp/en/), [University of Tokyo](https://www.u-tokyo.ac.jp/en/).
 
 ### Specialized in
 
-NGS data analysis with experience in scRNA-seq, scATAC-seq, 3D chromatin (Hi-C), RNA-seq, and ChIP-Seq.
+NGS data analysis with experience in scRNA-seq, scATAC-seq, 3D chromatin structures (Hi-C), RNA-seq, and ChIP-Seq.
 
 
 
 ## Education
 
 `2015 - 2019`
-__Doctor of Philosofy, Computational Biology and Medical Sciences__
+__Doctor of Philosophy, Computational Biology and Medical Sciences__
 - Grad. School of Frontier Sciences. The University of Tokyo. Chiba, Japan. 
 * Supervisor: Prof. Kenta Nakai
 
