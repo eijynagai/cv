@@ -14,8 +14,8 @@ Biotechnologist, bioinformatician, data scientist.
 
 ## Current position
 
-###__Project Researcher (特任研究員）__
-_ [Laboratory of Computational Genomics](http://nakatolab.iqb.u-tokyo.ac.jp/index-e.html),[Institute for Quantitative Biosciences](http://www.iam.u-tokyo.ac.jp/en/), [University of Tokyo](https://www.u-tokyo.ac.jp/en/).
+__Project Researcher (特任研究員)__
+- [Laboratory of Computational Genomics](http://nakatolab.iqb.u-tokyo.ac.jp/index-e.html),[Institute for Quantitative Biosciences](http://www.iam.u-tokyo.ac.jp/en/), [University of Tokyo](https://www.u-tokyo.ac.jp/en/).
 
 ### Specialized in
 
@@ -59,17 +59,17 @@ __Bachelor of Science, Biotechnology__
 
 `2019`
 Soichiro Yamanaka, Hidenori Nishihara, Hidehiro Toh, **Luis Augusto Eijy Nagai**, Kosuke Hashimoto, Sung-Joon Park, Aoi Shibuya, Ana Maria Suzuki, Yujiro Tanaka, Kenta Nakai, Piero Carninci, Hiroyuki Sasaki, and Haruhiko Siomi.<br>
-**Broad heterochromatic domains open in gonocyte development prior to de novo DNA methylation**.<br>
+Broad heterochromatic domains open in gonocyte development prior to de novo DNA methylation.<br>
 Dev. Cell (2019), S1534-5807(19)30629-X. [[Dev.Cell]](https://www.cell.com/developmental-cell/fulltext/S1534-5807(19)30629-X) [[PUBMED]](https://www.ncbi.nlm.nih.gov/pubmed/31474564)
 
 `2019`
 **Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai.<br>
-**Analyzing the 3D chromatin organization coordinating with gene expression regulation in B-cell lymphoma**.<br> 
+Analyzing the 3D chromatin organization coordinating with gene expression regulation in B-cell lymphoma.<br> 
 BMC Med Genomics (2019), 11 (Suppl 7):127. [[BMC]](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0437-8) [[PUBMED]](https://www.ncbi.nlm.nih.gov/pubmed/30894186)
 
 `2019`
 Leyi Wei, Shasha Luan, **Luis Augusto Eijy Nagai**, Ran Su, Quan Zou.<br>
-**Exploring sequence-based features for the improved prediction of DNA N4-methylcytosine sites in multiple species**.<br> 
+Exploring sequence-based features for the improved prediction of DNA N4-methylcytosine sites in multiple species.<br> 
 Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.oup.com/bioinformatics/article/35/8/1326/5102871) [[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/30239627/)
 
 ### Theses 
@@ -86,60 +86,60 @@ Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.o
 ### Talks
 
 `2022`
-**Towards understanding the orchestration of single-cell RNA-seq analysis**.<br>
 **Luis Augusto Eijy Nagai**.<br>
+Towards understanding the orchestration of single-cell RNA-seq analysis.<br>
 [細胞ダイバース第4回若手ワークショップ(The 4th Cell Diversity Workshop)](http://cdiversity.umin.jp/event/index.html), O-11, Jan. 26-28, 2022, (Online), Japan.
 
 `2021`
-**Nutrient-dependent dedifferentiation of Drosophila enteroendocrine cells dissected by single cell analyses**.<br>
-<u>Hiroki Nagai</u>, **Luis Augusto Eijy Nagai**, Ryuichiro Nakato and Yuichiro Nakajima.<br>
+Hiroki Nagai, **Luis Augusto Eijy Nagai**, Ryuichiro Nakato and Yuichiro Nakajima.<br>
+Nutrient-dependent dedifferentiation of Drosophila enteroendocrine cells dissected by single cell analyses.<br>
 [The 44th Annual Meeting of the Molecular Biology Society of Japan](https://www2.aeplan.co.jp/mbsj2021/), 2AW-11-3, Dec. 1-3, 2021, Yokohama, Japan.
 
 `2021`
-**Integrative study of hepatic fibrosis resolution mechanisms using single-cell RNA sequencing**.<br>
-<u>Eiko Saijou</u>, Tohru Itoh, Atsushi Miyajima, **Luis Augusto Eijy Nagai** and Ryuichiro Nakato.<br>
+Eiko Saijou, Tohru Itoh, Atsushi Miyajima, **Luis Augusto Eijy Nagai** and Ryuichiro Nakato.<br>
+Integrative study of hepatic fibrosis resolution mechanisms using single-cell RNA sequencing.<br>
 [The 44th Annual Meeting of the Molecular Biology Society of Japan](https://www2.aeplan.co.jp/mbsj2021/), 2AW-11-4, Dec. 1-3, 2021, Yokohama, Japan.
 
 `2019`
-**Analyzing the 3D Chromatin Organization Coordinating with Gene Expression Regulation in B-cell Lymphoma**.<br>
 **Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai.<br>
+Analyzing the 3D Chromatin Organization Coordinating with Gene Expression Regulation in B-cell Lymphoma.<br>
 [IBMP2019](https://iibmp2019.tokyo/), O-3 (oral), Sep.9-11, 2019, Tokyo, Japan.
 
 `2018`
-**Analyzing the 3D Chromatin Organization Coordinating with Gene Expression Regulation in B-cell Lymphoma**.<br>
 **Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai.<br>
+Analyzing the 3D Chromatin Organization Coordinating with Gene Expression Regulation in B-cell Lymphoma.<br>
 [The 17th International Conference On BioInformatics](http://www.incob2018.org/) (InCoB-2018), Sep. 26-28, 2018, New Delhi, India. **[Best oral presentation award]**.
 
 `2018`
-**Three-Dimensional Chromatin Structures Coordinate with Gene Expression Levels and Reveals Inter-chromosomal Interactions in B-Cell Lymphoma**.<br>
 **Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai.<br>
+Three-Dimensional Chromatin Structures Coordinate with Gene Expression Levels and Reveals Inter-chromosomal Interactions in B-Cell Lymphoma.<br>
 [生命医薬情報学連合大会 (IIBMP2018)](https://www.jsbi.org/iibmp2018/index.html), P-31 (oral presentation), 2018年9月19日～21日, 鶴岡、日本.
 
 
 ### Poster
 `2021`
-**Single-cell RNA trajectory to infer dedifferentiation in Drosophila midgut**.<br>
 **Luis Augusto Eijy Nagai**, Hiroki Nagai, Yuichiro Nakajima and Ryuichiro Nakato.<br>
+Single-cell RNA trajectory to infer dedifferentiation in Drosophila midgut.<br>
 [The 44th Annual Meeting of the Molecular Biology Society of Japan](https://www2.aeplan.co.jp/mbsj2021/), 3P-0707, Dec. 1-3, 2021, Yokohama, Japan.
 
 `2019`
-**Genome-wide chromatin structural analysis reveals inter-chromosomal translocations in B-cell lymphoma**.<br>
 **Luis Augusto Eijy Nagai**, Sung-Joon Park, Kenta Nakai.<br>
+Genome-wide chromatin structural analysis reveals inter-chromosomal translocations in B-cell lymphoma.<br>
 [The 42nd Annual Meeting of the Molecular Biology Society of Japan](https://www2.aeplan.co.jp/mbsj2019/), 1P-0002, Dec. 3-6, 2019, Fukuoka, Japan.
 
 `2019`
-**Analyzing the 3D Chromatin Organization Coordinating with Gene Expression Regulation in B-cell Lymphoma**.<br>
 **Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai.<br>
+Analyzing the 3D Chromatin Organization Coordinating with Gene Expression Regulation in B-cell Lymphoma.<br>
 [IIBMP2019](https://iibmp2019.tokyo/), P-1 (poster), Sep.9-11, 2019, Tokyo, Japan.
 
 `2019`
-**マウス胎仔期生殖細胞におけるクロマチンリプログラミング**.<br>
 山中 総一郎, 西原 秀典, 藤 英博, **Luis Augusto Eijy Nagai**, 橋本 浩介, 朴 聖俊, 渋谷 あおい, Ana Maria Suzuki, 田中 悠二郎, 中井 謙太, Piero Carninci, 佐々木 裕之, 塩見 春彦.<br>
+マウス胎仔期生殖細胞におけるクロマチンリプログラミング.<br>
 [第21回日本RNA学会年会](https://www.rnaj.org/rna2019), P-45, Jul.17-19, 2019, Tokyo, Japan.
 
 `2019`
-**Genome-wide chromatin structural analysis reveals inter-chromosomal translocations in B-cell lymphoma cell line**.<br>
 **Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai.<br>
+Genome-wide chromatin structural analysis reveals inter-chromosomal translocations in B-cell lymphoma cell line.<br>
 [The Biology of Genomes](https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=19), P177, May 7-11, 2019, Cold Spring Harbor Laboratory, NY, USA.
 
 
@@ -161,17 +161,17 @@ Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.o
 ### Professional activities: manuscript review
 
 `2021 - current`
-__Ad hoc review__ for MDPI journals: Genes, Applied Sciences, Healthcare.
+Ad hoc review for MDPI journals: Genes, Applied Sciences, Healthcare.
 
 
 
 ### Professional activities: memberships
 
 `2018 - current`
-__Member__ at the [International Society for Computational Biology](https://www.iscb.org/index.php)(ISCB).
+__Member__ at the [International Society for Computational Biology](https://www.iscb.org/index.php) (ISCB).
 
 `2018 - current`
-__Member__ at the [Japanese Society for Bioinformatics](https://www.jsbi.org/en/)(JSBi).
+__Member__ at the [Japanese Society for Bioinformatics](https://www.jsbi.org/en/) (JSBi).
 
 `2018 - current`
 __Member__ at the [Molecular Biology Society of Japan](https://www.mbsj.jp/en/) (MBSJ).
@@ -182,31 +182,40 @@ __Member__ at the [Molecular Biology Society of Japan](https://www.mbsj.jp/en/) 
 ## Prior positions
 
 `2020 - 2020`
-__Project Assistant Professor__ (data scientist) at the [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
+__Project Assistant Professor__ 
+- [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
 
 `2019 - 2020`
-__Project Researcher__ (data scientist) at the [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
+__Project Researcher__ 
+- [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
 
 `2015 - 2019`
-__Predoctoral Fellow__ at the [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Chiba, Japan.
+__Predoctoral Fellow__ 
+- [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Chiba, Japan.
 
 `2017 - 2019`
-__English tutor__ (part-timer) at [Kanda Foreign Language Institute](https://www.kandagaigo.ac.jp/), at Kanda University of International Studies. Tokyo, Japan.
+__English tutor__ 
+- [Kanda Foreign Language Institute](https://www.kandagaigo.ac.jp/), at Kanda University of International Studies. Tokyo, Japan.
 
 `2016 - 2019`
-__English tutor__ (part-timer) at [LbE Japan](https://lbejapan.co.jp/), Global Education Project. Tokyo, Japan.
+__English tutor__ 
+- [LbE Japan](https://lbejapan.co.jp/), Global Education Project. Tokyo, Japan.
 
 `2015 - 2015`
-__Research Student__ at the [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
+__Research Student__ 
+- [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
 
 `2012 - 2015`
-__Research Assistant__ at the [Bioinformatics Multiuser Laboratory](https://www.lmb.cnptia.embrapa.br/), EMBRAPA Agriculture Informatics, Campinas, Brazil.
+__Research Assistant__ 
+- [Bioinformatics Multiuser Laboratory](https://www.lmb.cnptia.embrapa.br/), EMBRAPA Agriculture Informatics, Campinas, Brazil.
 
 `2011 - 2012`
-__Undergraduate Research Fellow__ at Laboratory of Biotechnology, Dept. of Phytopathology and Molecular Biology. [The Sylvio Moreira Citrus Center (IAC)](http://www.centrodecitricultura.br), Cordeiropolis, Brazil.
+__Undergraduate Research Fellow__
+- Laboratory of Biotechnology, Dept. of Phytopathology and Molecular Biology. [The Sylvio Moreira Citrus Center (IAC)](http://www.centrodecitricultura.br), Cordeiropolis, Brazil.
 
 `2010 - 2011`
-__Summer Undergraduate Research Fellow__ at [Laboratory of Molecular Genetics](http://www.lagem.ufscar.br/_). Dept. of Plant Biotechnology. Federal University of São Carlos, Araras, Brazil.
+__Summer Undergraduate Research Fellow__ 
+- [Laboratory of Molecular Genetics](http://www.lagem.ufscar.br/_). Dept. of Plant Biotechnology. Federal University of São Carlos, Araras, Brazil.
 
 
 
