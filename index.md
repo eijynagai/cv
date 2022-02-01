@@ -15,7 +15,7 @@ Biotechnologist, bioinformatician, data scientist.
 ## Current position
 
 __Project Researcher (特任研究員)__
-- [Laboratory of Computational Genomics](http://nakatolab.iqb.u-tokyo.ac.jp/index-e.html),[Institute for Quantitative Biosciences](http://www.iam.u-tokyo.ac.jp/en/), [University of Tokyo](https://www.u-tokyo.ac.jp/en/).
+- [Laboratory of Computational Genomics](http://nakatolab.iqb.u-tokyo.ac.jp/index-e.html), [Institute for Quantitative Biosciences](http://www.iam.u-tokyo.ac.jp/en/), [University of Tokyo](https://www.u-tokyo.ac.jp/en/).
 
 ### Specialized in
 
