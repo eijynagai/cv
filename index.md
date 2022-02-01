@@ -36,8 +36,8 @@ __Master of Science, Genetics and Molecular Biology__
 * Co-supervisor: Dr. Adhemar Zerlotini Neto
 
 `2009 - 2012`
-__Bacher of Science, Biotechnology__
-Federal University of Sao Carlos, SP, Brazil.
+__Bachelor of Science, Biotechnology__
+_ Federal University of Sao Carlos, SP, Brazil.
 
 
 ## Technical skills
