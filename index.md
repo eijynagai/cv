@@ -77,7 +77,7 @@ Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.o
 **Luis Augusto Eijy Nagai**. A Computational Analysis of the Impact of 3D Chromosome Organization on its Gene Expression Regulation. PhD Thesis, University of Tokyo.
 
 `2015`
-**Luis Augusto Eijy Nagai**. Differential analysis on genes involved in beef tenderness in Angus and Nelore beef cattle. Master Dissertation, University of Campinas.
+**Luis Augusto Eijy Nagai**. Identification of genes involved in meat tenderness in Angus and Nellore breeds using differential expression analysis. Master Dissertation, University of Campinas.
 
 
 
