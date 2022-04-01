@@ -14,8 +14,9 @@ Biotechnologist, bioinformatician, data scientist.
 
 ## Current position
 
-__Project Researcher (特任研究員)__
+__Research Associate (助教)__
 - [Laboratory of Computational Genomics](http://nakatolab.iqb.u-tokyo.ac.jp/index-e.html), [Institute for Quantitative Biosciences](http://www.iam.u-tokyo.ac.jp/en/), [University of Tokyo](https://www.u-tokyo.ac.jp/en/).
+
 
 ### Specialized in
 
@@ -181,12 +182,15 @@ __Member__ at the [Molecular Biology Society of Japan](https://www.mbsj.jp/en/) 
 
 ## Prior positions
 
+`2021-2022`
+__Project Researcher (特任研究員)__
+- [Laboratory of Computational Genomics](http://nakatolab.iqb.u-tokyo.ac.jp/index-e.html), [Institute for Quantitative Biosciences](http://www.iam.u-tokyo.ac.jp/en/), [University of Tokyo](https://www.u-tokyo.ac.jp/en/).
 `2020 - 2020`
-__Project Assistant Professor__ 
+__Project Research Associate (特任助教)__ 
 - [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
 
 `2019 - 2020`
-__Project Researcher__ 
+__Project Researcher (特任研究員)__ 
 - [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
 
 `2015 - 2019`
