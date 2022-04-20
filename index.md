@@ -162,7 +162,7 @@ Genome-wide chromatin structural analysis reveals inter-chromosomal translocatio
 ### Professional activities: manuscript review
 
 `2022 - current`
-Ad hoc review for Frontier in Genetics
+Ad hoc review for Frontier in Genetics.
 
 `2021 - current`
 Ad hoc review for MDPI journals: Genes, Applied Sciences, Healthcare.
@@ -187,6 +187,7 @@ __Member__ at the [Molecular Biology Society of Japan](https://www.mbsj.jp/en/) 
 `2021-2022`
 __Project Researcher (特任研究員)__
 - [Laboratory of Computational Genomics](http://nakatolab.iqb.u-tokyo.ac.jp/index-e.html), [Institute for Quantitative Biosciences](http://www.iam.u-tokyo.ac.jp/en/), [University of Tokyo](https://www.u-tokyo.ac.jp/en/).
+
 `2020 - 2020`
 __Project Research Associate (特任助教)__ 
 - [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
