@@ -69,8 +69,11 @@ def main() -> None:
             out_fh.write(dna.rstrip().replace('T','U'))
             print(f'{dna} --> ' + dna.rstrip().replace('T', 'U'))
 
-    
-    print(f'Done! Wrote {num_seqs} DNA sequences into {num_files} files located at \'{args.out_dir}\'.')
+        out_fh.close()
+
+    print(f'Done! Wrote {num_seqs} DNA sequence{"" if num_seqs == 1 else "s"} '
+          f'into {num_files} file{"" if num_files == 1 else "s"} '
+          f'located at \'{args.out_dir}\'.')
 
 # --------------------------------------------------
 if __name__ == '__main__':
