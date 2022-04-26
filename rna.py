@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Author : eijy <eijy@localhost>
-Date   : 2022-02-28
+Date   : 2022-04-26
 Purpose: Transcribe DNA to RNA
 """
 
@@ -48,12 +48,15 @@ def main() -> None:
 
     args = get_args()
 
+    # create the directory if does not exist
     if not os.path.isdir(args.out_dir):
         os.makedirs(args.out_dir)
 
+    # counting variables for the files
     num_files, num_seqs = 0, 0
     for fh in args.files:
-    # open an output file in the output directory
+        num_files += 1
+        # open an output file in the output directory
         out_file = os.path.join(args.out_dir, os.path.basename(fh.name))
         print(fh.name, '->', out_file)
         out_fh = open(out_file, 'wt')
@@ -62,11 +65,12 @@ def main() -> None:
             # write the transcribed sequence to the output file
             # update the number of files processed
         for dna in fh:
+            num_seqs += 1
             out_fh.write(dna.rstrip().replace('T','U'))
-
+            print(f'{dna} --> ' + dna.rstrip().replace('T', 'U'))
 
     
-    print('Done! Wrote')
+    print(f'Done! Wrote {num_seqs} DNA sequences into {num_files} files located at \'{args.out_dir}\'.')
 
 # --------------------------------------------------
 if __name__ == '__main__':
