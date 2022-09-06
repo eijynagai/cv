@@ -59,8 +59,8 @@ __Bachelor of Science, Biotechnology__
 ### Journals
 `2022`
 Ryuichiro Nakato, Toyonori Sakata, Jiankang Wang,  **Luis Augusto Eijy Nagai**, Gina Miku Oba, Masashige Bando, Katsuhiko Shirahige.<br>
-Context-dependent 3D genome regulation by cohesin and related factors,
-[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.05.24.493188v1) (preprint), 2022.
+Context-dependent 3D genome regulation by cohesin and related factors.<br>
+[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.05.24.493188v1), 2022 (preprint).
 
 
 `2019`
@@ -97,7 +97,7 @@ Enteroendocrine cell dedifferentiates into intestinal stem cell upon nutrient fl
 [74th Annual Meeting of the Japanese Society for Cell Biology (JSCB)](https://confit.atlas.jp/guide/event/jscb2022/subject/1LH05/detail?lang=en), 1LH05, Jun. 28, 2022. Tokyo, Japan.
 
 `2022`
-<u>**Luis Augusto Eijy Nagai**</u>.<br>
+<u><b>Luis Augusto Eijy Nagai</b></u>.<br>
 Towards understanding the orchestration of single-cell RNA-seq analysis.<br>
 [細胞ダイバース第4回若手ワークショップ(The 4th Cell Diversity Workshop)](http://cdiversity.umin.jp/event/index.html), O-11, Jan. 26-28, 2022, (Online), Japan.
 
