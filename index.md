@@ -57,6 +57,11 @@ __Bachelor of Science, Biotechnology__
 
 
 ### Journals
+`2022`
+Ryuichiro Nakato, Toyonori Sakata, Jiankang Wang,  **Luis Augusto Eijy Nagai**, Gina Miku Oba, Masashige Bando, Katsuhiko Shirahige.<br>
+Context-dependent 3D genome regulation by cohesin and related factors,
+[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.05.24.493188v1) (preprint), 2022.
+
 
 `2019`
 Soichiro Yamanaka, Hidenori Nishihara, Hidehiro Toh, **Luis Augusto Eijy Nagai**, Kosuke Hashimoto, Sung-Joon Park, Aoi Shibuya, Ana Maria Suzuki, Yujiro Tanaka, Kenta Nakai, Piero Carninci, Hiroyuki Sasaki, and Haruhiko Siomi.<br>
@@ -87,12 +92,17 @@ Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.o
 ### Talks
 
 `2022`
-**Luis Augusto Eijy Nagai**.<br>
+<u>Hiroki Nagai</u>, **Luis Augusto Eijy Nagai**, Ryuichiro Nakato, Masayuki Miura1, Yu-ichiro Nakajima.
+Enteroendocrine cell dedifferentiates into intestinal stem cell upon nutrient fluctuation.<br>
+[74th Annual Meeting of the Japanese Society for Cell Biology (JSCB)](https://confit.atlas.jp/guide/event/jscb2022/subject/1LH05/detail?lang=en), 1LH05, Jun. 28, 2022. Tokyo, Japan.
+
+`2022`
+<u>**Luis Augusto Eijy Nagai**</u>.<br>
 Towards understanding the orchestration of single-cell RNA-seq analysis.<br>
 [細胞ダイバース第4回若手ワークショップ(The 4th Cell Diversity Workshop)](http://cdiversity.umin.jp/event/index.html), O-11, Jan. 26-28, 2022, (Online), Japan.
 
 `2021`
-Hiroki Nagai, **Luis Augusto Eijy Nagai**, Ryuichiro Nakato and Yuichiro Nakajima.<br>
+<u>Hiroki Nagai</u>, **Luis Augusto Eijy Nagai**, Ryuichiro Nakato and Yuichiro Nakajima.<br>
 Nutrient-dependent dedifferentiation of Drosophila enteroendocrine cells dissected by single cell analyses.<br>
 [The 44th Annual Meeting of the Molecular Biology Society of Japan](https://www2.aeplan.co.jp/mbsj2021/), 2AW-11-3, Dec. 1-3, 2021, Yokohama, Japan.
 
@@ -184,7 +194,7 @@ __Member__ at the [Molecular Biology Society of Japan](https://www.mbsj.jp/en/) 
 
 ## Prior positions
 
-`2021-2022`
+`2021 - 2022`
 __Project Researcher (特任研究員)__
 - [Laboratory of Computational Genomics](http://nakatolab.iqb.u-tokyo.ac.jp/index-e.html), [Institute for Quantitative Biosciences](http://www.iam.u-tokyo.ac.jp/en/), [University of Tokyo](https://www.u-tokyo.ac.jp/en/).
 
