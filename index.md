@@ -175,7 +175,7 @@ Genome-wide chromatin structural analysis reveals inter-chromosomal translocatio
 Ad hoc review for Frontier in Genetics.
 
 `2021 - current`
-Ad hoc review for MDPI journals: Genes, Applied Sciences, Healthcare.
+Ad hoc review for MDPI journals: International Journal of Molecular Sciences, Genes, Applied Sciences, Healthcare.
 
 
 ### Professional activities: memberships
