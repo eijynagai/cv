@@ -97,6 +97,11 @@ Central genes in Cornelia de Lange Syndrome mouse cell lines using single-cell g
 
 `2022`
 <u>Hiroki Nagai</u>, **Luis Augusto Eijy Nagai**, Ryuichiro Nakato, Masayuki Miura1, Yu-ichiro Nakajima.
+Dedifferentiation of enteroendocrine cells promotes intestinal adaptation to nutrient environment.<br>
+[The 45th Annual Meeting of the Molecular Biology Society of Japan](https://www2.aeplan.co.jp/mbsj2022/english/index.html), 1PW-08-5, Nov. 30, 2022. Chiba, Japan.    
+
+`2022`
+<u>Hiroki Nagai</u>, **Luis Augusto Eijy Nagai**, Ryuichiro Nakato, Masayuki Miura1, Yu-ichiro Nakajima.
 Enteroendocrine cell dedifferentiates into intestinal stem cell upon nutrient fluctuation.<br>
 [74th Annual Meeting of the Japanese Society for Cell Biology (JSCB)](https://confit.atlas.jp/guide/event/jscb2022/subject/1LH05/detail?lang=en), 1LH05, Jun. 28, 2022. Tokyo, Japan.
 
