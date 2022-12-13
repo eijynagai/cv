@@ -90,6 +90,10 @@ Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.o
 ## Presentations
 
 ### Talks
+`2022`
+<u><b>Luis Augusto Eijy Nagai</b></u>.<br>
+Central genes in Cornelia de Lange Syndrome mouse cell lines using single-cell gene networks
+[The 45th Annual Meeting of the Molecular Biology Society of Japan](https://www2.aeplan.co.jp/mbsj2022/english/index.html), 2SP-22-07, Dec1, 2022. Chiba, Japan.
 
 `2022`
 <u>Hiroki Nagai</u>, **Luis Augusto Eijy Nagai**, Ryuichiro Nakato, Masayuki Miura1, Yu-ichiro Nakajima.
@@ -128,6 +132,16 @@ Three-Dimensional Chromatin Structures Coordinate with Gene Expression Levels an
 
 
 ### Poster
+`2022`
+**Luis Augusto Eijy Nagai**, Eiko Saijou, Ryuichiro Nakato.<br>
+Central genes in Cornelia de Lange Syndrome mouse cell lines using single-cell gene networks
+[The 45th Annual Meeting of the Molecular Biology Society of Japan](https://www2.aeplan.co.jp/mbsj2022/english/index.html), 2P-130, Nov30-Dec2, 2022, Chiba, Japan.
+
+`2022`
+**Luis Augusto Eijy Nagai**, Eiko Saijou, Ryuichiro Nakato.<br>
+A computational method to extract central genes in Cornelia de Lange Syndrome-like cell line obtained from single-cell co-dependency networks.<br>
+[IIBMP2022](https://www.jsbi.org/iibmp2022-static/), P-81, Sep13-15, Osaka, Japan.
+
 `2021`
 **Luis Augusto Eijy Nagai**, Hiroki Nagai, Yuichiro Nakajima and Ryuichiro Nakato.<br>
 Single-cell RNA trajectory to infer dedifferentiation in Drosophila midgut.<br>
