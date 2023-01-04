@@ -195,7 +195,7 @@ Genome-wide chromatin structural analysis reveals inter-chromosomal translocatio
 Ad hoc review for Frontier in Genetics.
 
 `2021 - current`
-Ad hoc review for MDPI journals: International Journal of Molecular Sciences, Genes, Applied Sciences, Healthcare.
+Ad hoc review for MDPI journals: Cells, International Journal of Molecular Sciences, Genes, Applied Sciences, Healthcare.
 
 
 ### Professional activities: memberships
@@ -208,6 +208,7 @@ __Member__ at the [Japanese Society for Bioinformatics](https://www.jsbi.org/en/
 
 `2018 - current`
 __Member__ at the [Molecular Biology Society of Japan](https://www.mbsj.jp/en/) (MBSJ).
+
 
 
 
