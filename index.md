@@ -210,7 +210,10 @@ __Member__ at the [Japanese Society for Bioinformatics](https://www.jsbi.org/en/
 __Member__ at the [Molecular Biology Society of Japan](https://www.mbsj.jp/en/) (MBSJ).
 
 
+### Professional activities: resident advisor (RA)
 
+`2022 - current`
+__In-house advisor__ at the [University of Tokyo - Komaba International Lodge Annex](https://www.u-tokyo.ac.jp/adm/housing-office/en/housing/shukusha/komaba_annex.html).
 
 
 ## Prior positions
