@@ -3,7 +3,7 @@ layout: cv
 title: Luis Augusto Eijy Nagai's Curriculum vitae
 ---
 # Luis Augusto Eijy Nagai
-Biotechnologist, bioinformatician, data scientist.
+Computational biologist, bioinformatician. biotechnologist, data scientist.
 
 <div id="webaddress">
 <a href="https://en-coding.github.io/">https://en-coding.github.io/</a>
@@ -191,10 +191,9 @@ Genome-wide chromatin structural analysis reveals inter-chromosomal translocatio
 ### Professional activities: teaching and tutoring
 
 `2023-03-(06-22)`
-Bioinformatics Analysis and Visualisation of Medical Genomics Data (Course ID: 5633)
-Karolinska Institutet and University of Tokyo Joint Course 2023 (first)
-Seminars and hands-on practices on bioinformatics analysis. 
-
+Bioinformatics Analysis and Visualisation of Medical Genomics Data (Course ID: 5633).<br>
+Karolinska Institutet and University of Tokyo Joint Course 2023 (first).<br>
+Seminars and hands-on practice sessions on bioinformatics analysis.
 
 
 ### Professional activities: seminar presentations
