@@ -15,7 +15,7 @@ Biotechnologist, bioinformatician, data scientist.
 
 ## Current position
 
-__Research Associate (助教)__
+__Research Associate / Assistant Professor (助教)__
 - [Laboratory of Computational Genomics](http://nakatolab.iqb.u-tokyo.ac.jp/index-e.html), [Institute for Quantitative Biosciences](http://www.iam.u-tokyo.ac.jp/en/), [University of Tokyo](https://www.u-tokyo.ac.jp/en/).
 
 
@@ -190,7 +190,7 @@ Genome-wide chromatin structural analysis reveals inter-chromosomal translocatio
 
 ### Professional activities: teaching and tutoring
 
-`2023-03-06 to 2023-03-22`
+`2023-03-(06-22)`
 Bioinformatics Analysis and Visualisation of Medical Genomics Data (Course ID: 5633)
 Karolinska Institutet and University of Tokyo Joint Course 2023 (first)
 Seminars and hands-on practices on bioinformatics analysis. 
