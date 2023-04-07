@@ -53,7 +53,6 @@ __Bachelor of Science, Biotechnology__
 
 
 
-
 ## Publications
 
 
@@ -62,7 +61,6 @@ __Bachelor of Science, Biotechnology__
 Ryuichiro Nakato, Toyonori Sakata, Jiankang Wang,  **Luis Augusto Eijy Nagai**, Gina Miku Oba, Masashige Bando, Katsuhiko Shirahige.<br>
 Context-dependent 3D genome regulation by cohesin and related factors.<br>
 [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.05.24.493188v1), 2022 (preprint).
-
 
 `2019`
 Soichiro Yamanaka, Hidenori Nishihara, Hidehiro Toh, **Luis Augusto Eijy Nagai**, Kosuke Hashimoto, Sung-Joon Park, Aoi Shibuya, Ana Maria Suzuki, Yujiro Tanaka, Kenta Nakai, Piero Carninci, Hiroyuki Sasaki, and Haruhiko Siomi.<br>
@@ -85,6 +83,7 @@ Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.o
 
 `2015`
 **Luis Augusto Eijy Nagai**. Identification of genes involved in meat tenderness in Angus and Nellore breeds using differential expression analysis. Master Dissertation, University of Campinas.
+
 
 
 
@@ -189,6 +188,23 @@ Genome-wide chromatin structural analysis reveals inter-chromosomal translocatio
 
 ## Professional activities
 
+### Professional activities: teaching and tutoring
+
+`2023-03-06 to 2023-03-22`
+Bioinformatics Analysis and Visualisation of Medical Genomics Data (Course ID: 5633)
+Karolinska Institutet and University of Tokyo Joint Course 2023 (first)
+Seminars and hands-on practices on bioinformatics analysis. 
+
+
+
+### Professional activities: seminar presentations
+
+`2022-12-14`
+Databases of single-cell gene expression
+Seminar for 生命科学の最前線 (Grad. School of Frontier Sciences - UTokyo) 
+
+
+
 ### Professional activities: manuscript review
 
 `2022 - current`
@@ -196,6 +212,7 @@ Ad hoc review for Frontier in Genetics.
 
 `2021 - current`
 Ad hoc review for MDPI journals: Cells, International Journal of Molecular Sciences, Genes, Applied Sciences, Healthcare.
+
 
 
 ### Professional activities: memberships
