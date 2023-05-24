@@ -57,6 +57,11 @@ __Bachelor of Science, Biotechnology__
 
 
 ### Journals
+`2023`
+Hiroki Nagai, **Luis Augusto Eijy Nagai**, Sohei Tasaki, Ryuichiro Nakato, Daiki Umetsu, Erina Kuranaga, Masayuki Miura, Yuichiro Nakajima.<br>
+Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth.<br>
+[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.05.08.539820v1.full), 2023 (prepring).
+
 `2022`
 Ryuichiro Nakato, Toyonori Sakata, Jiankang Wang,  **Luis Augusto Eijy Nagai**, Gina Miku Oba, Masashige Bando, Katsuhiko Shirahige.<br>
 Context-dependent 3D genome regulation by cohesin and related factors.<br>
