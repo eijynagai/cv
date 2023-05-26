@@ -60,7 +60,7 @@ __Bachelor of Science, Biotechnology__
 `2023`
 Hiroki Nagai, **Luis Augusto Eijy Nagai**, Sohei Tasaki, Ryuichiro Nakato, Daiki Umetsu, Erina Kuranaga, Masayuki Miura, Yuichiro Nakajima.<br>
 Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth.<br>
-[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.05.08.539820v1.full), 2023 (prepring).
+[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.05.08.539820v1.full), 2023 (preprint).
 
 `2022`
 Ryuichiro Nakato, Toyonori Sakata, Jiankang Wang,  **Luis Augusto Eijy Nagai**, Gina Miku Oba, Masashige Bando, Katsuhiko Shirahige.<br>
@@ -96,8 +96,8 @@ Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.o
 
 ### Talks
 `2022`
-<u><b>Luis Augusto Eijy Nagai</b></u>.<br>
-Central genes in Cornelia de Lange Syndrome mouse cell lines using single-cell gene networks
+<u><b>Luis Augusto Eijy Nagai</b></u>, Eiko Saijou, Ryuichiro Nakato.<br>
+Central genes in Cornelia de Lange Syndrome mouse cell lines using single-cell gene networks (Lightning Talk).<br>
 [The 45th Annual Meeting of the Molecular Biology Society of Japan](https://www2.aeplan.co.jp/mbsj2022/english/index.html), 2SP-22-07, Dec1, 2022. Chiba, Japan.
 
 `2022`
@@ -230,11 +230,16 @@ __Member__ at the [Japanese Society for Bioinformatics](https://www.jsbi.org/en/
 `2018 - current`
 __Member__ at the [Molecular Biology Society of Japan](https://www.mbsj.jp/en/) (MBSJ).
 
+`2023 - current`
+__Member__ at the [Japanese Society for Epigenetics](https://jsepi.org/) (JSEpi).
+
+
 
 ### Professional activities: resident advisor (RA)
 
 `2022 - current`
 __In-house advisor__ at the [University of Tokyo - Komaba International Lodge Annex](https://www.u-tokyo.ac.jp/adm/housing-office/en/housing/shukusha/komaba_annex.html).
+
 
 
 ## Prior positions
