@@ -21,7 +21,7 @@ __Research Associate / Assistant Professor (助教)__
 
 ### Specialized in
 
-NGS data analysis with experience in scRNA-seq, scATAC-seq, 3D chromatin structures (Hi-C), RNA-seq, and ChIP-Seq.
+Next Generation Sequencing (NGS) data analysis in single-cell transcriptomics and epigenetics (scRNA-seq and scATAC-seq), 3D chromatin structures (Hi-C), RNA-seq, and ChIP-Seq.
 
 
 
@@ -82,13 +82,13 @@ Leyi Wei, Shasha Luan, **Luis Augusto Eijy Nagai**, Ran Su, Quan Zou.<br>
 Exploring sequence-based features for the improved prediction of DNA N4-methylcytosine sites in multiple species.<br> 
 Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.oup.com/bioinformatics/article/35/8/1326/5102871) [[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/30239627/)
 
+
 ### Theses 
 `2019`
 **Luis Augusto Eijy Nagai**. A Computational Analysis of the Impact of 3D Chromosome Organization on its Gene Expression Regulation. PhD Thesis, University of Tokyo.
 
 `2015`
 **Luis Augusto Eijy Nagai**. Identification of genes involved in meat tenderness in Angus and Nellore breeds using differential expression analysis. Master Dissertation, University of Campinas.
-
 
 
 
@@ -133,7 +133,7 @@ Analyzing the 3D Chromatin Organization Coordinating with Gene Expression Regula
 `2018`
 **Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai.<br>
 Analyzing the 3D Chromatin Organization Coordinating with Gene Expression Regulation in B-cell Lymphoma.<br>
-[The 17th International Conference On BioInformatics](http://www.incob2018.org/) (InCoB-2018), Sep. 26-28, 2018, New Delhi, India. **[Best oral presentation award]**.
+[The 17th International Conference On BioInformatics (InCoB2018)](http://www.incob2018.org/), Sep. 26-28, 2018, New Delhi, India. **[Best oral presentation award]**.
 
 `2018`
 **Luis Augusto Eijy Nagai**, Sung-Joon Park and Kenta Nakai.<br>
@@ -142,6 +142,11 @@ Three-Dimensional Chromatin Structures Coordinate with Gene Expression Levels an
 
 
 ### Poster
+`2023`
+Alícia Lie de Melo, Túlio Campos, Alexandre Colato, Elaine Dias, Hylio Lagana Fernandes, **Luis Augusto Eijy Nagai**, João Vitor Leite Novoletti, Laura Setten, Raissa Melo de Sousa, Luciano Moura Beserra de Sousa, Thayana Vieira Tavares, Davi Salles Xavier, <u>Renato Augusto Corrêa dos Santos</u>.<br>
+An inclusive strategy for increasing awareness on computational reproducibility in Life Sciences in Brazil.<br>
+[The 19th International Congress of the Brazilian Association of Bioinformatics and Computational Biology (X-meeting2023)](https://www.x-meeting.com/events/xm2023), Jun. 13-16, 2023, Curitiba, Brazil.
+
 `2022`
 **Luis Augusto Eijy Nagai**, Eiko Saijou, Ryuichiro Nakato.<br>
 Central genes in Cornelia de Lange Syndrome mouse cell lines using single-cell gene networks
@@ -221,6 +226,9 @@ Ad hoc review for MDPI journals: Cells, International Journal of Molecular Scien
 
 ### Professional activities: memberships
 
+`2023 - current`
+__Member__ at the [Japanese Society for Epigenetics](https://jsepi.org/) (JSEpi).
+
 `2018 - current`
 __Member__ at the [International Society for Computational Biology](https://www.iscb.org/index.php) (ISCB).
 
@@ -229,9 +237,6 @@ __Member__ at the [Japanese Society for Bioinformatics](https://www.jsbi.org/en/
 
 `2018 - current`
 __Member__ at the [Molecular Biology Society of Japan](https://www.mbsj.jp/en/) (MBSJ).
-
-`2023 - current`
-__Member__ at the [Japanese Society for Epigenetics](https://jsepi.org/) (JSEpi).
 
 
 
@@ -250,15 +255,15 @@ __Project Researcher (特任研究員)__
 
 `2020 - 2020`
 __Project Research Associate (特任助教)__ 
-- [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
+- [Laboratory of Functional Analysis _in silico_](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
 
 `2019 - 2020`
 __Project Researcher (特任研究員)__ 
-- [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
+- [Laboratory of Functional Analysis _in silico_](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
 
 `2015 - 2019`
 __Predoctoral Fellow__ 
-- [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Chiba, Japan.
+- [Laboratory of Functional Analysis _in silico_](https://fais.hgc.jp/), Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Chiba, Japan.
 
 `2017 - 2019`
 __English tutor__ 
@@ -270,7 +275,7 @@ __English tutor__
 
 `2015 - 2015`
 __Research Student__ 
-- [Laboratory of Functional Analysis *in silico*](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
+- [Laboratory of Functional Analysis _in silico_](https://fais.hgc.jp/), Human Genome Center, Institute of Medical Sciences, The University of Tokyo, Tokyo, Japan.
 
 `2012 - 2015`
 __Research Assistant__ 
