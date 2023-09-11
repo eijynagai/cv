@@ -100,6 +100,11 @@ Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.o
 ## Presentations
 
 ### Talks
+`2023`
+<u><b>Luis Augusto Eijy Nagai</b></u> and Ryuichiro Nakato.<br>
+Navigating Cellular Complexity: Unraveling Gene Interactions in scRNA-seq with Signed Graphs and Network Analysis.<br>
+[IIBMP2023](https://smartconf.jp/content/iibmp2023/workshop), WS-1, Sep7, 2023. Chiba, Japan.
+
 `2022`
 <u><b>Luis Augusto Eijy Nagai</b></u>, Eiko Saijou, Ryuichiro Nakato.<br>
 Central genes in Cornelia de Lange Syndrome mouse cell lines using single-cell gene networks (Lightning Talk).<br>
@@ -147,6 +152,11 @@ Three-Dimensional Chromatin Structures Coordinate with Gene Expression Levels an
 
 
 ### Poster
+`2023`
+<u><b>Luis Augusto Eijy Nagai</b></u> and Ryuichiro Nakato.<br>
+Navigating Cellular Complexity: Unraveling Gene Interactions in scRNA-seq with Signed Graphs and Network Analysis.<br>
+[IIBMP2023](https://smartconf.jp/content/iibmp2023/workshop), P-136, Sep7-9, 2023. Chiba, Japan.
+
 `2023`
 Alícia Lie de Melo, Túlio Campos, Alexandre Colato, Elaine Dias, Hylio Lagana Fernandes, **Luis Augusto Eijy Nagai**, João Vitor Leite Novoletti, Laura Setten, Raissa Melo de Sousa, Luciano Moura Beserra de Sousa, Thayana Vieira Tavares, Davi Salles Xavier, <u>Renato Augusto Corrêa dos Santos</u>.<br>
 An inclusive strategy for increasing awareness on computational reproducibility in Life Sciences in Brazil.<br>
