@@ -59,6 +59,11 @@ __Bachelor of Science, Biotechnology__
 ### Journals
 `2023`
 Hiroki Nagai, **Luis Augusto Eijy Nagai**, Sohei Tasaki, Ryuichiro Nakato, Daiki Umetsu, Erina Kuranaga, Masayuki Miura, Yuichiro Nakajima.<br>
+Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth in Drosophila.<br>
+Dev. Cell (2023), ISSN 1534-5807. [[Dev.Cell]](https://www.sciencedirect.com/science/article/pii/S1534580723004379) [[PUBMED]]()
+
+`2023`
+Hiroki Nagai, **Luis Augusto Eijy Nagai**, Sohei Tasaki, Ryuichiro Nakato, Daiki Umetsu, Erina Kuranaga, Masayuki Miura, Yuichiro Nakajima.<br>
 Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth.<br>
 [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.05.08.539820v1.full), 2023 (preprint).
 
