@@ -21,7 +21,7 @@ __Research Associate / Assistant Professor (助教)__
 
 ### Specialized in
 
-Next Generation Sequencing (NGS) data analysis in single-cell transcriptomics and epigenetics (scRNA-seq and scATAC-seq), 3D chromatin structures (Hi-C), RNA-seq, and ChIP-Seq.
+Next Generation Sequencing (NGS) data analyses in single-cell transcriptomics and epigenetics (scRNA-seq and scATAC-seq), 3D chromatin structures (Hi-C), RNA-seq, and ChIP-Seq.
 
 
 
@@ -31,12 +31,14 @@ Next Generation Sequencing (NGS) data analysis in single-cell transcriptomics an
 __Doctor of Philosophy, Computational Biology and Medical Sciences__
 - Grad. School of Frontier Sciences. The University of Tokyo. Chiba, Japan. 
 * Supervisor: Prof. Kenta Nakai
+* MEXT Scholarship Award
 
 `2013 - 2015`
 __Master of Science, Genetics and Molecular Biology__
 - Biology Institute, University of Campinas, SP, Brazil. 
 * Supervisor: Prof. Paula R. Kuser Falcao 
 * Co-supervisor: Dr. Adhemar Zerlotini Neto
+* CNPq Scholarship Award
 
 `2009 - 2012`
 __Bachelor of Science, Biotechnology__
@@ -68,16 +70,6 @@ Hiroki Nagai, **Luis Augusto Eijy Nagai**, Sohei Tasaki, Ryuichiro Nakato, Daiki
 Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth in Drosophila.<br>
 Dev. Cell (2023), ISSN 1534-5807. [[Dev.Cell]](https://www.sciencedirect.com/science/article/pii/S1534580723004379) [[PUBMED]]()
 
-`2023`
-Hiroki Nagai, **Luis Augusto Eijy Nagai**, Sohei Tasaki, Ryuichiro Nakato, Daiki Umetsu, Erina Kuranaga, Masayuki Miura, Yuichiro Nakajima.<br>
-Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth.<br>
-[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.05.08.539820v1.full), 2023 (preprint).
-
-`2022`
-Ryuichiro Nakato, Toyonori Sakata, Jiankang Wang,  **Luis Augusto Eijy Nagai**, Gina Miku Oba, Masashige Bando, Katsuhiko Shirahige.<br>
-Context-dependent 3D genome regulation by cohesin and related factors.<br>
-[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.05.24.493188v1), 2022 (preprint).
-
 `2019`
 Soichiro Yamanaka, Hidenori Nishihara, Hidehiro Toh, **Luis Augusto Eijy Nagai**, Kosuke Hashimoto, Sung-Joon Park, Aoi Shibuya, Ana Maria Suzuki, Yujiro Tanaka, Kenta Nakai, Piero Carninci, Hiroyuki Sasaki, and Haruhiko Siomi.<br>
 Broad heterochromatic domains open in gonocyte development prior to de novo DNA methylation.<br>
@@ -101,6 +93,24 @@ Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.o
 `2015`
 **Luis Augusto Eijy Nagai**. Identification of genes involved in meat tenderness in Angus and Nellore breeds using differential expression analysis. Master Dissertation, University of Campinas.
 
+
+### Articles, commentaries 
+`2023`
+Renato Augusto Corrêa dos Santos, Alicia Lie de Melo, Maryam Chaib, **Luis Augusto Eijy Nagai**, Luisa Matiz, Tulio Campos, Raissa Melo de Sousa.<br>
+Towards an increased awareness on the importance of Computational Reproducibility in Biological Sciences in Latin America.<br>
+ecrLife, Aug. 31, 2023. [[ecrLife]](https://ecrlife.org/reproducibility-in-biological-sciences-in-latin-america/)
+
+
+### Preprints 
+`2023`
+Hiroki Nagai, **Luis Augusto Eijy Nagai**, Sohei Tasaki, Ryuichiro Nakato, Daiki Umetsu, Erina Kuranaga, Masayuki Miura, Yuichiro Nakajima.<br>
+Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth.<br>
+[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.05.08.539820v1.full), 2023.
+
+`2022`
+Ryuichiro Nakato, Toyonori Sakata, Jiankang Wang,  **Luis Augusto Eijy Nagai**, Gina Miku Oba, Masashige Bando, Katsuhiko Shirahige.<br>
+Context-dependent 3D genome regulation by cohesin and related factors.<br>
+[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.05.24.493188v1), 2022.
 
 
 ## Presentations
