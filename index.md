@@ -217,10 +217,10 @@ Genome-wide chromatin structural analysis reveals inter-chromosomal translocatio
 ## Recognitions: scholarships
 
 `2015 - 2018`
-**Japanese Government (MEXT) Scholarship** (PhD fees + enhanced stipend).
+**Japanese Government (MEXT) Scholarship** (PhD tuition fees + enhanced stipend).
 
 `2015 - 2015`
-**Japanese Government (MEXT) Scholarship** (Research student fees + stipend).
+**Japanese Government (MEXT) Scholarship** (Research student tuition fees + stipend).
 
 `2011 - 2012`
 **National Council for Scientific and Technological Scholarship** (stipend).
