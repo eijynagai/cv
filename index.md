@@ -60,15 +60,20 @@ __Bachelor of Science, Biotechnology__
 
 ### Journals
 `2023`
+Li M, Nishimura T, Takeuchi Y, Hongu T, Wang Y, Shiokawa D, Wang K, Hirose H, Sasahara A, Yano M, Ishikawa S, Inokuchi M, Ota T, Tanabe M, Tada K, Akiyama T, Cheng X, Liu C, Yamashita T, Sugano S, Uchida Y, Chiba T, Asahara H, Nakagawa M, Sato S, Miyagi Y, Shimamura T,**Nagai LAE**, Kanai A, Katoh M, Nomura S, Nakato R, Suzuki Y, Tojo A, Voon D, Ogawa S, Okamoto K, Foukakis T, *Gotoh N.<br>
+FXYD3 functionally demarcates an ancestral breast cancer stem cell subpopulation with features of drug-tolerant persisters.<br>
+J. of Clin. Invest.(2023), vol 133, issue 22. [[JClinInvest]](https://www.jci.org/articles/view/166666)[[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/37966117/)
+
+`2023`
 Ryuichiro Nakato, Toyonori Sakata, Jiankang Wang, **Luis Augusto Eijy Nagai**, Yuya Nagaoka, Gina Miku Oba, Masashige Bando and Katsuhiko Shirahige.<br>
 Context-dependent   perturbations   in   chromatin   folding   and   the
 transcriptome by cohesin and related factors.<br>
-Nat. Comm. (2023), In press. [[Nat. Comm.]][[PUBMED]]
+Nat. Comm. (2023), v.14, issue 1. [[Nat. Comm.]](https://www.nature.com/articles/s41467-023-41316-4)[[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/37726281/)
 
 `2023`
 Hiroki Nagai, **Luis Augusto Eijy Nagai**, Sohei Tasaki, Ryuichiro Nakato, Daiki Umetsu, Erina Kuranaga, Masayuki Miura, Yuichiro Nakajima.<br>
 Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth in Drosophila.<br>
-Dev. Cell (2023), ISSN 1534-5807. [[Dev.Cell]](https://www.sciencedirect.com/science/article/pii/S1534580723004379) [[PUBMED]]()
+Dev. Cell (2023), ISSN 1534-5807. [[Dev.Cell]](https://www.sciencedirect.com/science/article/pii/S1534580723004379) [[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/37689060/)
 
 `2019`
 Soichiro Yamanaka, Hidenori Nishihara, Hidehiro Toh, **Luis Augusto Eijy Nagai**, Kosuke Hashimoto, Sung-Joon Park, Aoi Shibuya, Ana Maria Suzuki, Yujiro Tanaka, Kenta Nakai, Piero Carninci, Hiroyuki Sasaki, and Haruhiko Siomi.<br>
@@ -83,7 +88,7 @@ BMC Med Genomics (2019), 11 (Suppl 7):127. [[BMC]](https://bmcmedgenomics.biomed
 `2019`
 Leyi Wei, Shasha Luan, **Luis Augusto Eijy Nagai**, Ran Su, Quan Zou.<br>
 Exploring sequence-based features for the improved prediction of DNA N4-methylcytosine sites in multiple species.<br> 
-Bioinformatics, v. 35, p. 1326-1333, 2019. [[Bioinformatics]](https://academic.oup.com/bioinformatics/article/35/8/1326/5102871) [[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/30239627/)
+Bioinformatics, v.35, p.1326-1333, 2019. [[Bioinformatics]](https://academic.oup.com/bioinformatics/article/35/8/1326/5102871) [[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/30239627/)
 
 
 ### Theses 
@@ -168,6 +173,16 @@ Three-Dimensional Chromatin Structures Coordinate with Gene Expression Levels an
 
 
 ### Poster
+`2023`
+<u><b>Luis Nagai</b></u> and Ryuichiro Nakato.<br>
+Leveraging signed graphs and network analysis for comprehensive exploration of single-cell technologies.<br>
+[CEEHRC2023](https://event.fourwaves.com/ceehrc2023/abstracts/a0f01254-7788-4393-a835-b9ae6c0efc0a), ID123, Nov13-16, 2023. Banff, Canada.
+
+`2023`
+Shun Shibata, <u><b>Luis A.E. Nagai</b></u>, Akira Oike, Eri H Kobayashi, Norio Kobayashi, Ryuichiro Nakato, Mikita Suyama, Hiroaki Okae, Takahiro Arima.<br>
+Modeling Embryo-Endometrium Interface Recapitulating Human Embryo Implantation.<br>
+[CEEHRC2023](https://event.fourwaves.com/ceehrc2023/abstracts/f1d721a9-c66b-48f5-ae09-48f8ecfd303a), ID110, Nov13-16, 2023. Banff, Canada.
+
 `2023`
 <u><b>Luis Augusto Eijy Nagai</b></u> and Ryuichiro Nakato.<br>
 Navigating Cellular Complexity: Unraveling Gene Interactions in scRNA-seq with Signed Graphs and Network Analysis.<br>
