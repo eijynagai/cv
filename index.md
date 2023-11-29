@@ -60,9 +60,9 @@ __Bachelor of Science, Biotechnology__
 
 ### Journals
 `2023`
-Li M, Nishimura T, Takeuchi Y, Hongu T, Wang Y, Shiokawa D, Wang K, Hirose H, Sasahara A, Yano M, Ishikawa S, Inokuchi M, Ota T, Tanabe M, Tada K, Akiyama T, Cheng X, Liu C, Yamashita T, Sugano S, Uchida Y, Chiba T, Asahara H, Nakagawa M, Sato S, Miyagi Y, Shimamura T,**Nagai LAE**, Kanai A, Katoh M, Nomura S, Nakato R, Suzuki Y, Tojo A, Voon D, Ogawa S, Okamoto K, Foukakis T, *Gotoh N.<br>
+Li M, Nishimura T, Takeuchi Y, Hongu T, Wang Y, Shiokawa D, Wang K, Hirose H, Sasahara A, Yano M, Ishikawa S, Inokuchi M, Ota T, Tanabe M, Tada K, Akiyama T, Cheng X, Liu C, Yamashita T, Sugano S, Uchida Y, Chiba T, Asahara H, Nakagawa M, Sato S, Miyagi Y, Shimamura T, **Nagai LAE**, Kanai A, Katoh M, Nomura S, Nakato R, Suzuki Y, Tojo A, Voon D, Ogawa S, Okamoto K, Foukakis T, *Gotoh N.<br>
 FXYD3 functionally demarcates an ancestral breast cancer stem cell subpopulation with features of drug-tolerant persisters.<br>
-J. of Clin. Invest.(2023), vol 133, issue 22. [[JClinInvest]](https://www.jci.org/articles/view/166666)[[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/37966117/)
+J. of Clin. Invest. (2023), vol 133, issue 22. [[JClinInvest]](https://www.jci.org/articles/view/166666)[[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/37966117/)
 
 `2023`
 Ryuichiro Nakato, Toyonori Sakata, Jiankang Wang, **Luis Augusto Eijy Nagai**, Yuya Nagaoka, Gina Miku Oba, Masashige Bando and Katsuhiko Shirahige.<br>
@@ -88,7 +88,7 @@ BMC Med Genomics (2019), 11 (Suppl 7):127. [[BMC]](https://bmcmedgenomics.biomed
 `2019`
 Leyi Wei, Shasha Luan, **Luis Augusto Eijy Nagai**, Ran Su, Quan Zou.<br>
 Exploring sequence-based features for the improved prediction of DNA N4-methylcytosine sites in multiple species.<br> 
-Bioinformatics, v.35, p.1326-1333, 2019. [[Bioinformatics]](https://academic.oup.com/bioinformatics/article/35/8/1326/5102871) [[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/30239627/)
+Bioinformatics (2019), v.35, p.1326-1333. [[Bioinformatics]](https://academic.oup.com/bioinformatics/article/35/8/1326/5102871) [[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/30239627/)
 
 
 ### Theses 
