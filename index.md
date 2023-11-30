@@ -60,7 +60,7 @@ __Bachelor of Science, Biotechnology__
 
 ### Journals
 `2023`
-Li M, Nishimura T, Takeuchi Y, Hongu T, Wang Y, Shiokawa D, Wang K, Hirose H, Sasahara A, Yano M, Ishikawa S, Inokuchi M, Ota T, Tanabe M, Tada K, Akiyama T, Cheng X, Liu C, Yamashita T, Sugano S, Uchida Y, Chiba T, Asahara H, Nakagawa M, Sato S, Miyagi Y, Shimamura T, **Nagai LAE**, Kanai A, Katoh M, Nomura S, Nakato R, Suzuki Y, Tojo A, Voon D, Ogawa S, Okamoto K, Foukakis T, *Gotoh N.<br>
+Li M, Nishimura T, Takeuchi Y, Hongu T, Wang Y, Shiokawa D, Wang K, Hirose H, Sasahara A, Yano M, Ishikawa S, Inokuchi M, Ota T, Tanabe M, Tada K, Akiyama T, Cheng X, Liu C, Yamashita T, Sugano S, Uchida Y, Chiba T, Asahara H, Nakagawa M, Sato S, Miyagi Y, Shimamura T, **Nagai LAE**, Kanai A, Katoh M, Nomura S, Nakato R, Suzuki Y, Tojo A, Voon D, Ogawa S, Okamoto K, Foukakis T, Gotoh N.<br>
 FXYD3 functionally demarcates an ancestral breast cancer stem cell subpopulation with features of drug-tolerant persisters.<br>
 J. of Clin. Invest. (2023), vol 133, issue 22. [[JClinInvest]](https://www.jci.org/articles/view/166666)[[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/37966117/)
 
@@ -108,6 +108,11 @@ ecrLife, Aug. 31, 2023. [[ecrLife]](https://ecrlife.org/reproducibility-in-biolo
 
 ### Preprints 
 `2023`
+Qi Zhang, Luis Augusto Eijy Nagai, Mina Tsukamoto, Lenin C. Kandasamy, Kiyoshi Inoue, Maria F. Pires, Minsoo Shin, Yutaro Nagasawa, Tsetsegee Sambuu, Sonoko Ogawa, Kenta Nakai, Shigeyoshi Itohara, Larry J Young.<br>
+Distal regulatory sequences contribute to diversity in brain oxytocin receptor expression patterns and social behavior.<br>
+[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.12.01.518660v2.full), 2023.
+
+`2023`
 Hiroki Nagai, **Luis Augusto Eijy Nagai**, Sohei Tasaki, Ryuichiro Nakato, Daiki Umetsu, Erina Kuranaga, Masayuki Miura, Yuichiro Nakajima.<br>
 Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive intestinal growth.<br>
 [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.05.08.539820v1.full), 2023.
@@ -115,7 +120,7 @@ Nutrient-driven dedifferentiation of enteroendocrine cells promotes adaptive int
 `2022`
 Ryuichiro Nakato, Toyonori Sakata, Jiankang Wang,  **Luis Augusto Eijy Nagai**, Gina Miku Oba, Masashige Bando, Katsuhiko Shirahige.<br>
 Context-dependent 3D genome regulation by cohesin and related factors.<br>
-[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.05.24.493188v1), 2022.
+[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2022.05.24.493188v1.full), 2022.
 
 
 ## Presentations
