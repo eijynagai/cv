@@ -127,6 +127,11 @@ Context-dependent 3D genome regulation by cohesin and related factors.<br>
 
 ### Talks
 `2023`
+<u>Qi Zhang</u>, **Luis AE Nagai**, Itohara Shigeyoshi, Larry Young.<br>
+Does "Volized" mouse become more social? -Transcriptional lability of brain oxytocin receptor (Oxtr) generates diversity in brain OXTR distribution and social behaviors.<br>
+[MBSJ2023](https://www2.aeplan.co.jp/mbsj2023/en-index.html), 2AS-09-02, Dec7, 2023. Kobe, Japan.
+
+`2023`
 <u><b>Luis Augusto Eijy Nagai</b></u> and Ryuichiro Nakato.<br>
 Navigating Cellular Complexity: Unraveling Gene Interactions in scRNA-seq with Signed Graphs and Network Analysis.<br>
 [IIBMP2023](https://smartconf.jp/content/iibmp2023/workshop), WS-1, Sep7, 2023. Chiba, Japan.
@@ -178,6 +183,21 @@ Three-Dimensional Chromatin Structures Coordinate with Gene Expression Levels an
 
 
 ### Poster
+`2023`
+**Luis Augusto Eijy Nagai**, Ryuichiro Nakato.<br>
+Unveiling Cellular Heterogeneity with Signed Graphs: A Novel Approach for Single-Cell RNA-seq Data Analysis.<br>
+[MBSJ2023](https://www2.aeplan.co.jp/mbsj2023/en-index.html), 3P-158, Dec8, 2023. Kobe, Japan.
+
+`2023`
+**Luis Augusto Eijy Nagai**, Ryuichiro Nakato.<br>
+ShortCake: A Dockerized Platform for Scalable Single-Cell Analysis.<br>
+[MBSJ2023](https://www2.aeplan.co.jp/mbsj2023/en-index.html), 3P-159, Dec8, 2023. Kobe, Japan.
+
+`2023`
+<u>Qi Zhang</u>, **Luis AE Nagai**, Itohara Shigeyoshi, Larry Young.<br>
+Does "Volized" mouse become more social? -Transcriptional lability of brain oxytocin receptor (Oxtr) generates diversity in brain OXTR disribution and social behaviors.<br>
+[MBSJ2023](https://www2.aeplan.co.jp/mbsj2023/en-index.html), 2P-707, Dec7, 2023. Kobe, Japan.
+
 `2023`
 <u><b>Luis Nagai</b></u> and Ryuichiro Nakato.<br>
 Leveraging signed graphs and network analysis for comprehensive exploration of single-cell technologies.<br>
