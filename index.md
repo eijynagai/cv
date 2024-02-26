@@ -59,6 +59,11 @@ __Bachelor of Science, Biotechnology__
 
 
 ### Journals
+`2024`
+Shun Shibata, Shun Endo, **Luis A E Nagai**, Eri H Kobayashi, Akira Oike, Norio Kobayashi, Akane Kitamura, Takeshi Hori, Yuji Nashimoto, Ryuichiro Nakato, Hirotaka Hamada, Hirokazu Kaji, Chie Kikutake, Mikita Suyama, Masatoshi Saito, Nobuo Yaegashi, Hiroaki Okae, Takahiro Arima.<br>
+Modeling embryo-endometrial interface recapitulating human embryo implantation.<br>
+Sci. Adv. (2024), vol 10, issue 8. [[SciAdv-OPEN]](https://www.science.org/doi/10.1126/sciadv.adi4819)[[PUBMED]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10889356/)
+
 `2023`
 Li M, Nishimura T, Takeuchi Y, Hongu T, Wang Y, Shiokawa D, Wang K, Hirose H, Sasahara A, Yano M, Ishikawa S, Inokuchi M, Ota T, Tanabe M, Tada K, Akiyama T, Cheng X, Liu C, Yamashita T, Sugano S, Uchida Y, Chiba T, Asahara H, Nakagawa M, Sato S, Miyagi Y, Shimamura T, **Nagai LAE**, Kanai A, Katoh M, Nomura S, Nakato R, Suzuki Y, Tojo A, Voon D, Ogawa S, Okamoto K, Foukakis T, Gotoh N.<br>
 FXYD3 functionally demarcates an ancestral breast cancer stem cell subpopulation with features of drug-tolerant persisters.<br>
