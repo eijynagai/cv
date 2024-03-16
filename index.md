@@ -62,7 +62,7 @@ __Bachelor of Science, Biotechnology__
 `2024`
 **Luis Augusto Eijy Nagai**, Seohyun Lee, Ryuichiro Nakato. <br>
 Protocol for identifying differentially expressed genes using the RumBall RNA-seq analysis platform.<br>
-STAR Protoc. (2024), vol 5, issue 1. [[STARprotoc]](https://star-protocols.cell.com/protocols/)[[PUBMED]](https://www.sciencedirect.com/science/article/pii/S2666166724000911)
+STAR Protoc. (2024), vol 5, issue 1. [[STARprotoc]](https://star-protocols.cell.com/protocols/3354)[[PUBMED]](https://pubmed.ncbi.nlm.nih.gov/38461412/)
 
 `2024`
 Shun Shibata, Shun Endo, **Luis A E Nagai**, Eri H Kobayashi, Akira Oike, Norio Kobayashi, Akane Kitamura, Takeshi Hori, Yuji Nashimoto, Ryuichiro Nakato, Hirotaka Hamada, Hirokazu Kaji, Chie Kikutake, Mikita Suyama, Masatoshi Saito, Nobuo Yaegashi, Hiroaki Okae, Takahiro Arima.<br>
